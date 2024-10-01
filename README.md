@@ -20,6 +20,7 @@ Learning GraphQL
 8. `nodemon {filename index.js for e.g.}` - restart the apollo server automaatically,
 9. `input` is a special type of variable that can group together several arguments in one type, **very useful for mutations**,
 10. Apollo server always runs on `http://localhost:4000/` so make sure you have that running,
+11. This tutorial uses poor man's database,
 
 ## References
 
